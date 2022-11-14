@@ -1,3 +1,16 @@
 site_name: Django with React.js
+nav:
+  - introduction: "index.md"
+  - setting:
+    - ubuntu 22.04: "pages/setting/ubuntu.md"
+  - django: "index.md"
+  - django-ninja: "index.md"
+  - react.js: "index.md"
+  - about: "pages/about.md"
+
 theme:
   name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.tabs.link
