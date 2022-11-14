@@ -5,18 +5,14 @@
 - Frontend : [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://ko.reactjs.org/)
 
 
-## Author
+## Author New Version
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-
-<figure class="align-center">
-  <img src="{{site.baseurl}}/assets/django/map.png">
-  <figcaption>django map</figcaption>
-</figure>
+![Screenshot](img/django/map.png)
 
 ## Project layout
 
