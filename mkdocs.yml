@@ -1,1 +1,3 @@
 site_name: Django with React.js
+theme:
+  name: material
